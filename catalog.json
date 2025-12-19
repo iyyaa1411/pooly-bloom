@@ -352,16 +352,6 @@
   "media": "duckie_figure45(1).jpeg"
 },
 {
-  "id": "figure-01",
-  "name": "Duckie Figure",
-  "category": "Figure",
-  "price": 45000,
-  "priceText": "Rp 45.000",
-  "desc": "Duckie Figure!! Bebek kicill imutt, cocok untuk hadiah spesial. Bisa custom warna FREE kartu Ucapan & paperbag.",
-  "mediaType": "video",
-  "media": "vid_duckie_figure45(1).mp4"
-},
-{
   "id": "figure-02",
   "name": "Kirby Figure",
   "category": "Figure",
@@ -370,15 +360,6 @@
   "desc": "Kirby Figure!! Kirby Mini yang gemess nya gakda obatt, cocok untuk hadiah spesial. Bisa custom warna FREE kartu Ucapan & paperbag.",
   "mediaType": "image",
   "media": "kirby_figure45(2).jpeg"
-},
-{
-  "id": "figure-02",
-  "name": "Kirby Figure",
-  "category": "Figure",
-  "price": 45000,
-  "priceText": "Rp 45.000",
-  "desc": "Kirby Figure!! Kirby Mini yang gemess nya gakda obatt, cocok untuk hadiah spesial. Bisa custom warna FREE kartu Ucapan & paperbag.",
-  "mediaType": "video",
-  "media": "vid_kirby_figure45(2).mp4"
 }
 ]
+
