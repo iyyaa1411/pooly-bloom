@@ -246,10 +246,10 @@
     "id": "standard-classic-03",
     "name": "Standard Classic Pink Bouquet",
     "category": "Standard Classic Bouquet",
-    "price": 130000,
-    "priceText": "Rp 130.000",
+    "price": 140000,
+    "priceText": "Rp 140.000",
     "desc": "Classic bouquet ukuran Standard warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
-    "image": "standard_classic_pink130(3).jpeg"
+    "image": "standard_classic_pink140(3).jpeg"
   },
   {
     "id": "standard-classic-04",
@@ -360,4 +360,5 @@
   "image": "kirby_figure45(2).jpeg"
 }
 ]
+
 
