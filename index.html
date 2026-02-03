@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pooly Bloom — Buket Pipe Cleaner</title>
+  <meta name="description" content="Pooly Bloom — buket pipe cleaner, handmade, ramah lingkungan. Lihat katalog & pesan via WhatsApp." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<div class="modal hidden" id="cartModal">
+  <div class="modal-content">
+    <button class="close-btn" onclick="toggleCart()">×</button>
+    <h3>Keranjang Pesanan</h3>
+
+    <div id="cartItems"></div>
+
+    <button class="btn" onclick="checkout()">Checkout</button>
+  </div>
+</div>
+
+
+<body>
+  <!-- HAMBURGER -->
+<div class="menu-icon" onclick="toggleMenu()">☰</div>
+<!-- SIDEBAR -->
+<div id="sideMenu" class="side-menu">
+  <button class="close-menu" onclick="toggleMenu()">×</button>
+
+  <div class="menu-links">
+    <a href="#home" onclick="toggleMenu()">Home</a>
+    <a href="#catalog" onclick="toggleMenu()">Katalog</a>
+    <a href="#about" onclick="toggleMenu()">About</a>
+    <a href="#feedback" onclick="toggleMenu()">Customer Feedback</a>
+    <a href="#contact" onclick="toggleMenu()">Contact</a>
+  </div>
+</div>
+
+<!-- ================= HOME ================= -->
+<header id="home" class="site-header">
+  <div class="menu-icon" onclick="toggleMenu()">☰</div>
+
+  <div class="cart-icon" id="cartBtn">
+    🛒 <span id="cartCount">0</span>
+  </div>
+
+  <div class="container header-center">
+    <img src="assets/images/logo.jpeg" alt="Pooly Bloom Logo" class="site-logo">
+
+    <h1>Pooly Bloom</h1>
+    <p class="subtitle">
+      Buket unik & tahan lama — handmade dari pipe cleaner
+    </p>
+  </div>
+</header>
+<!-- ================= CATALOG ================= -->
+<section id="catalog" class="container">
+    <h3>Kategori Buket</h3>
+  <div class="category-list">
+    <button class="cat-btn active" data-category="all">Semua</button>
+    <button class="cat-btn" data-category="Mini Classic Bouquet">Mini Classic</button>
+    <button class="cat-btn" data-category="Mini Character Bouquet">Mini Character</button>
+    <button class="cat-btn" data-category="Mini Tweed Bouquet">Mini Tweed</button>
+    <button class="cat-btn" data-category="Single Bouquet">Single</button>
+    <button class="cat-btn" data-category="Standard Character Bouquet">Standard Character</button>
+    <button class="cat-btn" data-category="Standard Classic Bouquet">Standard Classic</button>
+    <button class="cat-btn" data-category="Standard Tweed Bouquet">Standard Tweed</button>
+    <button class="cat-btn" data-category="Standard Round Bouquet">Standard Round</button>
+    <button class="cat-btn" data-category="Money Bouquet">Money Bouquet</button>
+    <button class="cat-btn" data-category="Mini Hand Bouquet">Mini Hand Bouquet</button>
+    <button class="cat-btn" data-category="Figure">Figure</button>
+
+  </div>
+</section>
+<main class="container">
+    <section id="catalog-section">
+      <h2>Katalog Buket</h2>
+      <div id="catalog-grid" class="grid"></div>
+    </section>
+
+    <!-- Modal kecil untuk pesan custom -->
+    <div id="order-modal" class="modal hidden" aria-hidden="true">
+      <div class="modal-content">
+        <button id="close-modal" class="close-btn" aria-label="Tutup">×</button>
+        <img id="modal-img" alt="">
+        <h3 id="modal-name"></h3>
+        <p id="modal-price"></p>
+        <p id="modal-desc"></p>
+
+        <label for="custom-msg">Pesan / catatan (opsional):</label>
+        <textarea id="custom-msg" placeholder="Tulis permintaan custom (warna, tema, dll.)"></textarea>
+
+        <button id="confirm-order" class="btn">Pesan via WhatsApp</button>
+      </div>
+    </div>
+  </main>
+
+
+<!-- ================= ABOUT ================= -->
+<section id="about" class="about-section">
+  <div class="about-hero">
+    <img src="assets/images/logo.jpeg" class="about-logo">
+    <div class="about-overlay">
+      <h2>About Pooly Bloom</h2>
+      <p>
+        Pooly Bloom adalah brand buket handmade dari pipe cleaner
+        yang mengutamakan keindahan, ketahanan, dan makna di setiap rangkaiannya.
+        Setiap buket dibuat dengan tangan, satu per satu, menggunakan pipe cleaner pilihan yang aman, lentur, dan tahan lama.
+        </p>
+        <p>
+          Kami percaya bahwa hadiah bukan hanya soal bentuk, tapi tentang rasa, perhatian, dan cerita di baliknya.
+          Dari momen sederhana hingga perayaan spesial, Pooly Bloom hadir untuk membantu menyampaikan perasaan dengan cara yang manis, unik, dan berkesan.
+        </p>
+    </div>
+  </div>
+
+  <div class="about-content container">
+
+    <div class="about-block">
+      <img src="assets/images/about1.jpeg" class="about-divider">
+      <h3>We Only Pick The Best</h3>
+      <p>
+        Kami percaya, buket yang indah berawal dari pilihan yang tepat.<br>
+        Setiap helai pipe cleaner kami pilih dengan penuh perhatian<br>
+        dari warna, tekstur, hingga kualitas bahan<br><br>
+        karena detail kecil menentukan hasil yang besar.
+        <p>
+          Tidak ada yang asal, tidak ada yang setengah-setengah.
+          Hanya material terbaik yang kami rangkai dengan cinta, supaya setiap buket Pooly Bloom tidak hanya cantik dipandang, tapi juga tahan lama dan penuh makna 💖
+        </p><br>
+        <p>
+        Karena bagi kami, hadiah bukan sekadar barang —melainkan perasaan yang ingin kamu sampaikan ✨
+      </p>
+    </div>
+
+    <div class="about-block">
+      <img src="assets/images/about2.jpeg" class="about-divider">
+      <h3>Our Florist Is An Art</h3>
+      <p>
+        Di Pooly Bloom, merangkai buket bukan sekadar pekerjaan — ini adalah seni.<br>
+Setiap lilitan pipe cleaner, pemilihan warna, dan detail kecil dirangkai dengan rasa, bukan asal jadi.
+Kami percaya bahwa tangan manusia menyimpan emosi, dan dari sanalah buket yang penuh makna tercipta.
+      </p>
+    </div>
+
+    <div class="about-block">
+      <img src="assets/images/about3.jpeg" class="about-divider">
+      <h3>Real Picture & Real Quality</h3>
+      <p>
+        Di Pooly Bloom, apa yang kamu lihat adalah apa yang kamu dapatkan.<br>
+Setiap foto buket kami adalah hasil pemotretan asli dari produk nyata, tanpa filter berlebihan, dan tanpa edit yang menipu.
+
+Kami percaya bahwa kepercayaan dimulai dari kejujuran<br>
+warna, bentuk, dan detail buket akan sesuai dengan yang kamu terima.
+Karena bagi kami, kualitas bukan hanya tentang hasil akhir, tapi tentang komitmen untuk memberikan yang terbaik secara nyata.
+      </p>
+    </div>
+
+  </div>
+</section>
+<!-- ================= FEEDBACK ================= -->
+<section id="feedback" class="about-section page-section">
+  <div class="container">
+    <h2 style="text-align:center;margin-bottom:30px;">
+      Customer Feedback 💬
+    </h2>
+
+    <div class="feedback-grid">
+      <img src="assets/images/feedback1.jpeg" alt="Feedback customer Pooly Bloom">
+      <img src="assets/images/feedback2.jpeg" alt="Feedback customer Pooly Bloom">
+      <img src="assets/images/feedback3.jpeg" alt="Feedback customer Pooly Bloom">
+      <img src="assets/images/feedback4.jpeg" alt="Feedback customer Pooly Bloom">
+      <img src="assets/images/feedback5.jpeg" alt="Feedback customer Pooly Bloom">
+      <img src="assets/images/feedback6.jpeg" alt="Feedback customer Pooly Bloom">
+      <img src="assets/images/feedback7.jpeg" alt="Feedback customer Pooly Bloom">
+      <img src="assets/images/feedback8.jpeg" alt="Feedback customer Pooly Bloom">
+    </div>
+  </div>
+</section>
+
+
+<!-- ================= CONTACT ================= -->
+<section id="contact" class="container info-section">
+  <h2>Contact Pooly Bloom</h2>
+
+  <ul class="contact-list">
+    <li>📸 Instagram: <a href="https://www.instagram.com/pooly.bloom?igsh=MWxxM3c5bmJ3MnZscA==" target="_blank">@pooly.bloom</a></li>
+    <li>🎵 TikTok: <a href="https://www.tiktok.com/@liy.blossom?_r=1&_t=ZS-92FVNcDxPXx" target="_blank">@liy.blossom</a></li>
+    <li>🛍 Shopee: <a href="https://s.shopee.co.id/5fhjJ2gWHp" target="_blank">Pooly Bloom Shop</a></li>
+    <li>💬 WhatsApp: <a href="https://wa.me/62895352962123" target="_blank">Chat WhatsApp</a></li>
+    <li>✉ Email: poolybloom@gmail.com</li>
+    <li>📍 Lokasi:
+      <a href="https://maps.app.goo.gl/EYcays2VEfaKzjRHA?g_st=ipc" target="_blank">
+        Lihat di Google Maps
+      </a>
+    </li>
+  </ul>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+      <p>Hubungi: <a href="https://wa.me/62895352962123" target="_blank" rel="noopener">WhatsApp Pooly Bloom</a></p>
+    </div>
+</footer>
+  <script src="script.js"></script>
+</body>
+</html>
