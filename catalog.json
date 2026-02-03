@@ -1,0 +1,470 @@
+[
+  {
+    "id": "single-01",
+    "name": "Single Tulip Bouquet",
+    "category": "Single Bouquet",
+    "price": 15000,
+    "priceText": "Rp 15.000",
+    "desc": "Buket single tulip lucu, cocok untuk hadiah kecil (BISA CUSTOM WARNA DLL). FREE kartu  & Paperbag.",
+    "image": "single_tulip15(1).jpeg"
+  },
+  {
+    "id": "mini-character-01",
+    "name": "Mini Character Rabbit Bouquet",
+    "category": "Mini Character Bouquet",
+    "price": 20000,
+    "priceText": "Rp 20.000",
+    "desc": "Character bouquet ukuran mini bentuk Kelinci Lucuu, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_character_kelinci20(1).jpeg"
+  },
+  {
+    "id": "mini-character-02",
+    "name": "Mini Character Duck Bouquet",
+    "category": "Mini Character Bouquet",
+    "price": 20000,
+    "priceText": "Rp 20.000",
+    "desc": "Character bouquet ukuran mini bentuk Bebek Lucuu, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_character_duck20(2).jpeg"
+  },
+  {
+    "id": "mini-character-03",
+    "name": "Mini Character Loopy Bouquet",
+    "category": "Mini Character Bouquet",
+    "price": 20000,
+    "priceText": "Rp 20.000",
+    "desc": "Character bouquet ukuran mini bentuk Loopy Lucuu, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_character_loopy20(3).jpeg"
+  },
+  {
+    "id": "mini-character-04",
+    "name": "Mini Character Tiger Bouquet",
+    "category": "Mini Character Bouquet",
+    "price": 20000,
+    "priceText": "Rp 20.000",
+    "desc": "Character bouquet ukuran mini bentuk Singa Lucuu, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_character_tiger20(4).jpeg"
+  },
+  {
+    "id": "mini-character-05",
+    "name": "Mini Character Kitty Bouquet",
+    "category": "Mini Character Bouquet",
+    "price": 20000,
+    "priceText": "Rp 20.000",
+    "desc": "Character bouquet ukuran mini bentuk Kucing Putih Lucuu, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_character_kitty20(5).jpeg"
+  },
+  {
+    "id": "mini-classic-01",
+    "name": "Mini Classic Pink Bouquet",
+    "category": "Mini Classic Bouquet",
+    "price": 30000,
+    "priceText": "Rp 30.000",
+    "desc": "Classic bouquet ukuran mini warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_classic_pink30(1).jpeg"
+  },
+  {
+    "id": "mini-classic-02",
+    "name": "Mini Classic Yellow Bouquet",
+    "category": "Mini Classic Bouquet",
+    "price": 30000,
+    "priceText": "Rp 30.000",
+    "desc": "Classic bouquet ukuran mini warna Kuning, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_classic_kuning30(2).jpeg"
+  },
+  {
+    "id": "mini-classic-03",
+    "name": "Mini Classic Orange Bouquet",
+    "category": "Mini Classic Bouquet",
+    "price": 30000,
+    "priceText": "Rp 30.000",
+    "desc": "Classic bouquet ukuran mini warna Orange, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_classic_oren30(3).jpeg"
+  },
+  {
+    "id": "mini-classic-04",
+    "name": "Mini Classic Yellow Bouquet",
+    "category": "Mini Classic Bouquet",
+    "price": 20000,
+    "priceText": "Rp 20.000",
+    "desc": "Classic bouquet ukuran mini warna Kuning, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_classic_kuning20(4).jpeg"
+  },
+  {
+    "id": "mini-classic-05",
+    "name": "Mini Classic Purple Bouquet",
+    "category": "Mini Classic Bouquet",
+    "price": 20000,
+    "priceText": "Rp 20.000",
+    "desc": "Classic bouquet ukuran mini warna Ungu, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_classic_ungu20(5).jpeg"
+  },
+  {
+    "id": "mini-hand-01",
+    "name": "Mini Hand Bouquet Tosca Colour",
+    "category": "Mini Hand Bouquet",
+    "price": 30000,
+    "priceText": "Rp 30.000",
+    "desc": "Mini Hand Bouquet dengan Warna Tosca, bisa custom dan FREE Kartu Ucapan & Paperbag",
+    "image": "mini_hand_tosca30(1).jpeg"
+  },
+  {
+    "id": "mini-hand-02",
+    "name": "Mini Hand Bouquet Mix Colour",
+    "category": "Mini Hand Bouquet",
+    "price": 30000,
+    "priceText": "Rp 30.000",
+    "desc": "Mini Hand Bouquet dengan Mix Warna, bisa custom dan FREE Kartu Ucapan & Paperbag",
+    "image": "mini_hand_mix30(2).jpeg"
+  },
+  {
+    "id": "mini-tweed-01",
+    "name": "Mini Tweed Blue Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 40000,
+    "priceText": "Rp 40.000",
+    "desc": "Tweed bouquet ukuran mini warna Biru, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_biru40(1).jpeg"
+  },
+  {
+    "id": "mini-tweed-02",
+    "name": "Mini Tweed Pink Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 40000,
+    "priceText": "Rp 40.000",
+    "desc": "Tweed bouquet ukuran mini warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_pink40(2).jpeg"
+  },
+  {
+    "id": "mini-tweed-03",
+    "name": "Mini Tweed Pink Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 40000,
+    "priceText": "Rp 40.000",
+    "desc": "Tweed bouquet ukuran mini warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_pink40(3).jpeg"
+  },
+  {
+    "id": "mini-tweed-04",
+    "name": "Mini Tweed Purple Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 45000,
+    "priceText": "Rp 45.000",
+    "desc": "Tweed bouquet ukuran mini warna Ungu, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_ungu45(4).jpeg"
+  },
+  {
+    "id": "mini-tweed-05",
+    "name": "Mini Tweed Barbie Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 50000,
+    "priceText": "Rp 50.000",
+    "desc": "Tweed bouquet ukuran mini Barbie, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_barbie50(5).jpeg"
+  },
+  {
+    "id": "mini-tweed-06",
+    "name": "Mini Tweed Pink Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 50000,
+    "priceText": "Rp 50.000",
+    "desc": "Tweed bouquet ukuran mini warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_pink50(6).jpeg"
+  },
+  {
+    "id": "mini-tweed-07",
+    "name": "Mini Tweed Barbie Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 40000,
+    "priceText": "Rp 40.000",
+    "desc": "Tweed bouquet ukuran mini Barbie, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_barbie40(7).jpeg"
+  },
+  {
+    "id": "mini-tweed-08",
+    "name": "Mini Tweed Brown Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 45000,
+    "priceText": "Rp 45.000",
+    "desc": "Tweed bouquet ukuran mini warna Coklat, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_coklat45(8).jpeg"
+  },
+  {
+    "id": "mini-tweed-09",
+    "name": "Mini Tweed Brown Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 45000,
+    "priceText": "Rp 45.000",
+    "desc": "Tweed bouquet ukuran mini warna Coklat, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_coklat45(9).jpeg"
+  },
+  {
+    "id": "mini-tweed-10",
+    "name": "Mini Tweed Pink Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 45000,
+    "priceText": "Rp 45.000",
+    "desc": "Tweed bouquet ukuran mini warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_pink45(10).jpeg"
+  },
+  {
+    "id": "mini-tweed-11",
+    "name": "Mini Tweed Yellow Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 40000,
+    "priceText": "Rp 40.000",
+    "desc": "Tweed bouquet ukuran mini warna Kuning, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_kuning40(11).jpeg"
+  },
+  {
+    "id": "mini-tweed-12",
+    "name": "Mini Tweed Blue Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 45000,
+    "priceText": "Rp 45.000",
+    "desc": "Tweed bouquet ukuran mini warna Biru, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_biru45(12).jpeg"
+  },
+  {
+    "id": "mini-tweed-13",
+    "name": "Mini Tweed Wine Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 45000,
+    "priceText": "Rp 45.000",
+    "desc": "Tweed bouquet ukuran mini warna Wine, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_wine45(13).jpeg"
+  },
+  {
+    "id": "mini-tweed-14",
+    "name": "Mini Tweed Tosca Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 40000,
+    "priceText": "Rp 40.000",
+    "desc": "Tweed bouquet ukuran mini warna Tosca, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_tosca40(14).jpeg"
+  },
+  {
+    "id": "mini-tweed-15",
+    "name": "Mini Tweed Maroon Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 40000,
+    "priceText": "Rp 40.000",
+    "desc": "Tweed bouquet ukuran mini warna Maroon, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_maroon40(15).jpeg"
+  },
+  {
+    "id": "mini-tweed-16",
+    "name": "Mini Tweed Wine Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 40000,
+    "priceText": "Rp 40.000",
+    "desc": "Tweed bouquet ukuran mini warna Wine, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_wine40(16).jpeg"
+  },
+  {
+    "id": "mini-tweed-17",
+    "name": "Mini Tweed Biru x Ungu Bouquet",
+    "category": "Mini Tweed Bouquet",
+    "price": 50000,
+    "priceText": "Rp 50.000",
+    "desc": "Tweed bouquet ukuran mini warna Biru x Ungu, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "mini_tweed_biruxungu50(17).jpeg"
+  },
+  {
+    "id": "money-01",
+    "name": "Money Bouquet 10 sheets",
+    "category": "Money Bouquet",
+    "price": 590000,
+    "priceText": "Rp 590.000",
+    "desc": "Money bouquet 10 lembar uang Rp. 50.000, bisa custom dan FREE Kartu Ucapan & Paperbag",
+    "image": "money_10lmbr(1).jpeg"
+  },
+  {
+    "id": "money-02",
+    "name": "Money Bouquet 20 sheets",
+    "category": "Money Bouquet",
+    "price": 1150000,
+    "priceText": "Rp 1.150.000",
+    "desc": "Money bouquet 20 lembar uang Rp. 50.000, bisa custom dan FREE Kartu Ucapan & Paperbag",
+    "image": "money_20lmbr(2).jpeg"
+  },
+  {
+    "id": "money-03",
+    "name": "Money Bouquet 20 sheets",
+    "category": "Money Bouquet",
+    "price": 2070000,
+    "priceText": "Rp 2.070.000",
+    "desc": "Money bouquet 20 lembar uang Rp. 100.000, bisa custom dan FREE Kartu Ucapan & Paperbag",
+    "image": "money_20lmbr(3).jpeg"
+  },
+  {
+    "id": "standard-character-01",
+    "name": "Standard Character Bouquet Tema Kelinci",
+    "category": "Standard Character Bouquet",
+    "price": 125000,
+    "priceText": "Rp 125.000",
+    "desc": "Standard Character Bouquet Tema Kelinci Dominan Pink, bisa custom dan FREE Kartu Ucapan & Paperbag",
+    "image": "standard_character_rabbit125(1).jpeg"
+  },
+  {
+    "id": "standard-classic-01",
+    "name": "Standard Classic Sun Bouquet",
+    "category": "Standard Classic Bouquet",
+    "price": 70000,
+    "priceText": "Rp 70.000",
+    "desc": "Classic bouquet ukuran Standard warna Orange, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_classic_matahari70(1).jpeg"
+  },
+  {
+    "id": "standard-classic-02",
+    "name": "Standard Classic Pink Bouquet",
+    "category": "Standard Classic Bouquet",
+    "price": 100000,
+    "priceText": "Rp 100.000",
+    "desc": "Classic bouquet ukuran Standard warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_classic_pink100(2).jpeg"
+  },
+  {
+    "id": "standard-classic-03",
+    "name": "Standard Classic Pink Bouquet",
+    "category": "Standard Classic Bouquet",
+    "price": 140000,
+    "priceText": "Rp 140.000",
+    "desc": "Classic bouquet ukuran Standard warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_classic_pink140(3).jpeg"
+  },
+  {
+    "id": "standard-classic-04",
+    "name": "Standard Classic Hindia Bouquet",
+    "category": "Standard Classic Bouquet",
+    "price": 120000,
+    "priceText": "Rp 120.000",
+    "desc": "Classic bouquet ukuran Standard Tema Hindia, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_classic_hindia120(4).jpeg"
+  },
+  {
+    "id": "standard-classic-05",
+    "name": "Standard Classic Strawberry Bouquet",
+    "category": "Standard Classic Bouquet",
+    "price": 100000,
+    "priceText": "Rp 100.000",
+    "desc": "Classic bouquet ukuran Standard Isi 30pcs Strawberry, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_classic_strawberry30pcs100(5).jpeg"
+  },
+  {
+    "id": "standard-classic-06",
+    "name": "Standard Classic Profession Doll Bouquet",
+    "category": "Standard Classic Bouquet",
+    "price": 165000,
+    "priceText": "Rp 165.000",
+    "desc": "Classic bouquet ukuran Standard Include Boneka Profesi, bisa custom warna dan Boneka FREE Kartu Ucapan & Paperbag",
+    "image": "standard_classic_doll_hijau165(6).jpeg"
+  },
+  {
+    "id": "standard-classic-07",
+    "name": "Standard Classic Profession Doll Bouquet",
+    "category": "Standard Classic Bouquet",
+    "price": 135000,
+    "priceText": "Rp 135.000",
+    "desc": "Classic bouquet ukuran Standard Include Boneka Profesi, bisa custom warna dan Boneka FREE Kartu Ucapan & Paperbag",
+    "image": "standard_classic_tni135(7).jpeg"
+  },
+  {
+    "id": "standard-round-01",
+    "name": "Standard Round Maroon Bouquet",
+    "category": "Standard Round Bouquet",
+    "price": 135000,
+    "priceText": "Rp 135.000",
+    "desc": "Round bouquet ukuran Standard warna Maroon, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_round_maroon135(1).jpeg"
+  },
+  {
+    "id": "standard-round-02",
+    "name": "Standard Round Yellow Bouquet",
+    "category": "Standard Round Bouquet",
+    "price": 135000,
+    "priceText": "Rp 135.000",
+    "desc": "Round bouquet ukuran Standard warna Kuning, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_round_kuning135(2).jpeg"
+  },
+  {
+    "id": "standard-round-03",
+    "name": "Standard Round Pink Bouquet",
+    "category": "Standard Round Bouquet",
+    "price": 135000,
+    "priceText": "Rp 135.000",
+    "desc": "Round bouquet ukuran Standard warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_round_pink135(3).jpeg"
+  },
+  {
+    "id": "standard-round-04",
+    "name": "Standard Round Maroon Bouquet",
+    "category": "Standard Round Bouquet",
+    "price": 135000,
+    "priceText": "Rp 135.000",
+    "desc": "Round bouquet ukuran Standard warna Maroon, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_round_maroonblack135(4).jpeg"
+  },
+  {
+    "id": "standard-tweed-01",
+    "name": "Standard Tweed Navy Bouquet",
+    "category": "Standard Tweed Bouquet",
+    "price": 70000,
+    "priceText": "Rp 70.000",
+    "desc": "Tweed bouquet ukuran Standard warna Navy, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_tweed_navy70(1).jpeg"
+  },
+  {
+    "id": "standard-tweed-02",
+    "name": "Standard Tweed Wine Bouquet",
+    "category": "Standard Tweed Bouquet",
+    "price": 70000,
+    "priceText": "Rp 70.000",
+    "desc": "Tweed bouquet ukuran Standard warna Wine, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_tweed_wine70(2).jpeg"
+  },
+  {
+    "id": "standard-tweed-03",
+    "name": "Standard Tweed Pink Bouquet",
+    "category": "Standard Tweed Bouquet",
+    "price": 70000,
+    "priceText": "Rp 70.000",
+    "desc": "Tweed bouquet ukuran Standard warna Pink, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_tweed_pink70(3).jpeg"
+  },
+  {
+    "id": "standard-tweed-04",
+    "name": "Standard Tweed MaroonBlack Bouquet",
+    "category": "Standard Tweed Bouquet",
+    "price": 95000,
+    "priceText": "Rp 95.000",
+    "desc": "Tweed bouquet ukuran Standard warna Maroon x Black, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_tweed_maroonblack95(4).jpeg"
+  },
+  {
+    "id": "standard-tweed-05",
+    "name": "Standard Tweed Barbie Bouquet",
+    "category": "Standard Tweed Bouquet",
+    "price": 70000,
+    "priceText": "Rp 70.000",
+    "desc": "Tweed bouquet ukuran Standard warna Barbie, bisa custom warna FREE Kartu Ucapan & Paperbag",
+    "image": "standard_tweed_barbie70(5).jpeg"
+  },
+  {
+  "id": "figure-01",
+  "name": "Duckie Figure",
+  "category": "Figure",
+  "price": 45000,
+  "priceText": "Rp 45.000",
+  "desc": "Duckie Figure!! Bebek kicill imutt, cocok untuk hadiah spesial. Bisa custom warna FREE kartu Ucapan & paperbag.",
+  "image": "duckie_figure45(1).jpeg"
+},
+{
+  "id": "figure-02",
+  "name": "Kirby Figure",
+  "category": "Figure",
+  "price": 45000,
+  "priceText": "Rp 45.000",
+  "desc": "Kirby Figure!! Kirby Mini yang gemess nya gakda obatt, cocok untuk hadiah spesial. Bisa custom warna FREE kartu Ucapan & paperbag.",
+  "image": "kirby_figure45(2).jpeg"
+}
+]
